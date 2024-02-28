@@ -5,7 +5,7 @@ I developed a Python library for transformers, leveraging the architecture I pre
 
 1. Create a Directory Structure: Start by creating a directory structure for your package, For instance:
    - create a folder called transformer_package, then save this files in the folder.
-    ```python
+    ```bash
     my_transformer_package/
     ├── my_transformer/
     │   ├── __init__.py
@@ -29,7 +29,7 @@ I developed a Python library for transformers, leveraging the architecture I pre
 
    ```
 3. After installing the repo, go to the terminal and type:
-   ```
+   ```bash
    pip install .
    ```
 3. And then, run the test file.
