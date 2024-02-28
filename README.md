@@ -17,15 +17,15 @@ I developed a Python library for transformers, leveraging the architecture I pre
    ```python
    from setuptools import setup, find_packages
 
-    setup(
-        name='my_transformer',
-        version='0.1',
-        packages=find_packages(),
-        install_requires=[
-            'torch>=1.6.0',
-        ],
-        python_requires='>=3.6',
-    )
+   setup(
+       name='transformer_lib',
+       version='0.1',
+       packages=find_packages(),
+       install_requires=[
+           'torch>=1.6.0',
+       ],
+       python_requires='>=3.6',
+   )
 
    ```
 3. After installing the repo, go to the terminal and type:
