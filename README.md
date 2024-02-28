@@ -5,7 +5,7 @@ I developed a Python library for transformers, leveraging the architecture I pre
 
 1. Create a Directory Structure: Start by creating a directory structure for your package, For instance:
    - create a folder called transformer_package, then save this files in the folder.
-    ```
+    ```python
     my_transformer_package/
     ├── my_transformer/
     │   ├── __init__.py
@@ -14,7 +14,7 @@ I developed a Python library for transformers, leveraging the architecture I pre
 
     ```
 2. the setup.py: This file is used to define metadata about your package and how to install it. Here's a minimal example, you can change it for example the version:
-   ```
+   ```python
    from setuptools import setup, find_packages
 
     setup(
@@ -32,4 +32,5 @@ I developed a Python library for transformers, leveraging the architecture I pre
    ```
    pip install .
    ```
+3. And then, run the test file.
    ### Now you should be able to use the transformer architecture in any python file you build.
