@@ -1,4 +1,5 @@
-# transformer-architecture-library  <img src="t.jpeg" alt="Project Logo" style="border-radius: 50%; width: 200px; height: 200px;">
+# transformer-architecture-library  
+<img src="t.jpeg" alt="Project Logo" style="border-radius: 50%; width: 400px; height: 200px;">
 I developed a Python library for transformers, leveraging the architecture I previously designed. With this library, users can freely install and utilize the transformer architecture.
 
 ---
