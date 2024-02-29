@@ -1,7 +1,7 @@
 # transformer-architecture-library
 
 
-<img src="t.jpegg" alt="Project Logo" style="border-radius: 50%; width: 200px; height: 200px;">
+<img src="t.jpeg" alt="Project Logo" style="border-radius: 50%; width: 200px; height: 200px;">
 
 
 
