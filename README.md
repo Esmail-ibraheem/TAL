@@ -1,5 +1,7 @@
 # transformer-architecture-library
-![photo_2024-02-29_10-27-44-transformed](https://github.com/Esmail-ibraheem/transformer-architecture-library/assets/113830751/bf6ce9a0-7681-4d4b-ae68-9e1ae667360d)
+<img src="![image](https://github.com/Esmail-ibraheem/transformer-architecture-library/assets/113830751/0c54601e-e470-47cf-ad29-06b250d708a4)
+" width="200" height="200">
+
 
 I developed a Python library for transformers, leveraging the architecture I previously designed. With this library, users can freely install and utilize the transformer architecture.
 
