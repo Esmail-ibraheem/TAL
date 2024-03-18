@@ -1,5 +1,6 @@
 # TAL 
-![t](https://github.com/Esmail-ibraheem/transformer-architecture-library/assets/113830751/e9d8a486-51b0-49fe-9896-d81e89758f0b)
+![image](https://github.com/Esmail-ibraheem/transformer-architecture-library/assets/113830751/8552eab6-0b7b-496b-848e-12b0476a7820)
+
 
 I developed a Python library for transformers, leveraging the architecture I previously designed. With this library, users can freely install and utilize the transformer architecture.
 
