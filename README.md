@@ -1,4 +1,4 @@
-# TAL 
+# Transformer Architecture Library
 ![image](https://github.com/Esmail-ibraheem/transformer-architecture-library/assets/113830751/8552eab6-0b7b-496b-848e-12b0476a7820)
 
 
