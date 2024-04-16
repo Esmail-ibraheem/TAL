@@ -1,7 +1,7 @@
 """
 __init__.py - Transformer Library
 
-Welcome to our Transformer Architecture Library! This package empowers you to explore and utilize the transformative power of Transformer models in your projects.
+Welcome to my Transformer Architecture Library! This package empowers you to explore and utilize the transformative power of Transformer models in your projects.
 
 Developed to facilitate seamless integration and experimentation, our library offers a comprehensive suite of Transformer-based functionalities.
 
